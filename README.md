@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/byhelaman/3-column-preview-card-component
-- Live Site URL: https://loving-yonath-b49e66.netlify.app/
+- Solution URL: https://github.com/byhelaman/nft-preview-card-component
+- Live Site URL: https://determined-agnesi-6128c4.netlify.app
 
 ## My process
 
@@ -32,7 +32,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ## Author
